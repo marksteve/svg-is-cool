@@ -134,6 +134,16 @@ svg &#x3E; path.look-at-me {
           data-background-image="lib/images/caniuse.png"
           data-background-size="contain">
         </section>
+        <section class="left">
+          <h2>Writing SVG</h2>
+          <ul>
+            <li>Handwritten
+            <li>Vector design software<br>
+              <img data-src="lib/svg/illustrator.svg" width="100">
+              <img data-src="lib/svg/inkscape.svg" width="100">
+              <img data-src="lib/svg/sketch.svg" width="100">
+            <li>Through code (D3, Two.js, etc...)
+        </section>
         <section>
           <h2>Using SVG</h2>
         </section>
@@ -225,9 +235,6 @@ svg &#x3E; path.look-at-me {
   &#x3C;use class=&#x22;red&#x22; xlink:href=&#x22;lib/svg/external.svg#logo&#x22;&#x3E;
 &#x3C;/svg&#x3E;
           </code></pre>
-        </section>
-        <section data-background-color="white">
-          <img data-src="lib/svg/shadow.svg">
         </section>
         <section data-background-color="white">
           <img data-src="lib/images/portal.jpg" width="350">
@@ -548,7 +555,7 @@ use.butter-pecan {
       var extraSheet = document.styleSheets[3];
       Reveal.addEventListener('slidechanged', function (e) {
         switch (e.indexh) {
-          case 21:
+          case 22:
             extraSheet.insertRule('.red circle { stroke: red; }');
             extraSheet.insertRule('.red path { fill: red; }');
             break;
