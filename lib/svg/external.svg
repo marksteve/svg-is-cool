@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="logo" viewBox="0 0 123 123" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <circle cx="61.44" cy="61.44" r="46.08" fill="none" stroke="#fff" stroke-width="3" style="stroke: inherit; fill: currentColor" />
+    <path d="M92.16,76.8l-61.44,30.72l30.72,-46.08l30.72,-15.36l0,30.72Zm-28.666,-13.033l-24.012,36.018l49.678,-24.839l0,-24.012l-25.666,12.833Zm-2.054,-2.327l-30.72,15.36l0,-30.72l61.44,-30.72l-30.72,46.08Zm-27.72,-13.506l0,24.012l25.666,-12.833l24.012,-36.018l-49.678,24.839Z" fill="#fff" stroke="none" style="fill: inherit" />
+  </symbol>
+</svg>
